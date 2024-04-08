@@ -4,13 +4,14 @@
 
 ## Steps to Complete
 
-- **Access the Course**: Start by going to [Build your web developer portfolio (scrimba.com)](https://scrimba.com/learn/portfolio) 
+- **Access the Course**: Start by going to [Build your web developer portfolio (scrimba.com)](https://scrimba.com/learn/portfolio)
 - **Allocate Time for the Course**: The course comprises 22 lessons totaling approximately 2 hours and 26 minutes. Set aside around 3-4 hours to complete the course, including the time for building and customizing your portfolio.
-- **Build the Website**: Follow the course to build your portfolio. 
-- **Deployment:** You ARE NOT REQUIRED TO DEPLOY your app for this project submission. You will only be submitting the files on GitHub. 
-# Code Along with the Build Your Portfolio MVP 
+- **Build the Website**: Follow the course to build your portfolio.
+- **Deployment:** You ARE NOT REQUIRED TO DEPLOY your app for this project submission. You will only be submitting the files on GitHub.
 
-This guide will walk you through the process of forking the Build Your Portfolio MVP  starter code from GitHub, and then coding along with Scrimba's course using Visual Studio Code (VSCode). By the end of this guide, you will have a local development environment set up to work on your Portfolio MVP.
+# Code Along with the Build Your Portfolio MVP
+
+This guide will walk you through the process of forking the Build Your Portfolio MVP starter code from GitHub, and then coding along with Scrimba's course using Visual Studio Code (VSCode). By the end of this guide, you will have a local development environment set up to work on your Portfolio MVP.
 
 ## Step 1: Fork the Repository
 
@@ -32,7 +33,7 @@ Forking allows you to have a personal copy of the project on their GitHub accoun
 
 ## Step 4: Code Along with Scrimba
 
-The course spans roughly two and a half hours. 
+The course spans roughly two and a half hours.
 
 1. **Access the Scrimba Course:** Open the [Build your web developer portfolio (scrimba.com)](https://scrimba.com/learn/portfolio) in your web browser.
 2. **Follow Along:** As you progress through the Scrimba lessons, switch back to VSCode to apply what you've learned to your local project files.
@@ -48,9 +49,18 @@ The course spans roughly two and a half hours.
 Once you are done and you wish to update your GitHub fork with the changes:
 
 1. After making changes, **commit** them to your local repository. Use commands like `git add .`, `git commit -m "description of changes"`, and `git push` to push changes to your forked repository on GitHub.
+
 ## Step 7: Submit Your Project
 
 Once you've completed and tested your app:
 
 1. **Generate a Public Link:** If you've pushed your project to GitHub, your repository URL is what you'll need.
 2. **Submit the link:** to your completed app via the Learning Management System (LMS) [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+
+## Final Notes
+
+I enjoyed personalizing the site.
+It was a very straightforward code-along.
+I would do some things a bit differently but that's because I'm special.
+
+I did struggle with placing the credit for the about section so compromised with placing it at the bottom of the content.
